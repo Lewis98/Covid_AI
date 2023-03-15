@@ -62,6 +62,6 @@ Positive X-Rays at the time the project was completed.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Prashant Patel](https://www.kaggle.com/prashant268) for the [Dataset](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia)
+* [Prashant Patel](https://www.kaggle.com/prashant268) for the [Dataset](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia) used to train and test the model
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
