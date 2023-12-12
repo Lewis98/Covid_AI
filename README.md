@@ -1,5 +1,12 @@
 <a name="readme-top"></a>
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Lewis98/Covid_AI">
+    <img src="readme.ico" alt="Logo" width="80" height="80">
+  </a>
+  
 <h3 align="center">AI Detection of Covid-19 in Chest X-Rays</h3>
 
   <p align="center">
